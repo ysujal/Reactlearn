@@ -1,9 +1,10 @@
-
+import First from "./first.jsx";
 function App() {
   
 
   return (
-   <h1>React learning </h1>
+  //  <h1>React learning </h1>
+    <First />
   )
 }
 
